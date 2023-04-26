@@ -1,23 +1,10 @@
-# About me :
+# Sobre mi:
 
 ![denisegif](https://user-images.githubusercontent.com/131865422/234601760-68456885-b70d-4bf1-ab0b-22ae77b0584e.gif)
 
-Bienvenido/a a mi perfil de GitHub. Soy Denise Garrido, estudiante de **Grado Superior en Desarollo de Aplicaciones Web**. En mi perfil podrás encontrar los diversos proyectos en los que he trabajado. 
 
-Me especializo mayoritariamente en **Java, JavaScript, SQL, HTML y CSS**. Aunque esto cambiará y se desarollará con el tiempo. ¡Gracias por visitar mi perfil de GitHub!
+:notebook:
+**Bienvenido/a** a mi perfil de GitHub. Soy Denise Garrido, estudiante de **Grado Superior en Desarollo de Aplicaciones Web** en [CIPFP Cheste](http://www.fpcheste.com/joomla/index.php/es/). En mi perfil podrás encontrar los diversos proyectos en los que he ido trabajando en clase. Me especializo mayoritariamente en **Java, JavaScript, SQL, `<HTML>` y CSS**. Aunque esto cambiará y se desarollará con el tiempo, especializándome más en lenguajes como PHP. ¡Gracias por visitar mi perfil de GitHub!
 
-<!--
-**DeniseDAW/DeniseDAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![image](https://user-images.githubusercontent.com/131865422/234592214-2f563698-1e23-4cd4-9a9d-6984afe15238.gif)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades y tecnologías ##
