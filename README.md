@@ -8,11 +8,11 @@
 <br>
 
 ## Metas de este año 🦾:
-1.Aprender a manejar la sintaxis de Phyton.
+1.Aprender a manejar la sintaxis de **Phyton.
 
-2.Introducción a los sistemas Gestores de Base de Datos no relacionales.
+2.Introducción a los sistemas **Gestores de Base de Datos no relacionales.
 
-3.Adquirir conocimientos de PHP.
+3.Adquirir conocimientos de **PHP.
 
 <br>
 
