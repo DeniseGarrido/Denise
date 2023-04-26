@@ -1,9 +1,11 @@
-### ¡Hola mundo! Soy <span style="color:purple">Denise</span>
+# About me :
+<br>
 
-<span style="text-align:left">![Sobre mí(1)](https://user-images.githubusercontent.com/131865422/234551548-035bd327-a70f-401a-a656-e5272fb290c6.gif)
-</span>
+![Designer final](https://user-images.githubusercontent.com/131865422/234594935-ef49f5be-bc5a-4d29-994b-573b8665b4a9.gif)
+
 <!--
 **DeniseDAW/DeniseDAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://user-images.githubusercontent.com/131865422/234592214-2f563698-1e23-4cd4-9a9d-6984afe15238.gif)
 
 Here are some ideas to get you started:
 
