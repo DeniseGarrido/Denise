@@ -56,6 +56,15 @@
 
 <br>
 
+## Contacto :speech_balloon:
+
+🔎 Encuéntrame en Twitter: <a href="https://twitter.com/denise14004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="denise14004" height="30" width="40" /></a>
+</p>
+
+🗂️ Puedes mandarme un correo electrónico: garrido.tamarit.denise@gmail.com
+
+📱 Y aquí tienes mi teléfono: 691054066
+
 
 <br>
 
@@ -65,11 +74,3 @@
 
 <br>
 
-## Contacto :speech_balloon:
-
-🔎 Encuéntrame en Twitter: <a href="https://twitter.com/denise14004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="denise14004" height="30" width="40" /></a>
-</p>
-
-🗂️ Puedes mandarme un correo electrónico: garrido.tamarit.denise@gmail.com
-
-📱 Y aquí tienes mi teléfono: 691054066
