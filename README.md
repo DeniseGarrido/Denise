@@ -1,7 +1,10 @@
 # About me :
-<br>
 
-![Designer final](https://user-images.githubusercontent.com/131865422/234594935-ef49f5be-bc5a-4d29-994b-573b8665b4a9.gif)
+![denisegif](https://user-images.githubusercontent.com/131865422/234601760-68456885-b70d-4bf1-ab0b-22ae77b0584e.gif)
+
+Bienvenido/a a mi perfil de GitHub. Soy Denise Garrido, estudiante de **Grado Superior en Desarollo de Aplicaciones Web**. En mi perfil podrás encontrar los diversos proyectos en los que he trabajado. 
+
+Me especializo mayoritariamente en **Java, JavaScript, SQL, HTML y CSS**. Aunque esto cambiará y se desarollará con el tiempo. ¡Gracias por visitar mi perfil de GitHub!
 
 <!--
 **DeniseDAW/DeniseDAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
