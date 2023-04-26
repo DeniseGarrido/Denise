@@ -1,5 +1,7 @@
-### Hi there 👋
+### ¡Hola mundo! Soy <span style="color:purple">Denise</span>
 
+<span style="text-align:left">![Sobre mí(1)](https://user-images.githubusercontent.com/131865422/234551548-035bd327-a70f-401a-a656-e5272fb290c6.gif)
+</span>
 <!--
 **DeniseDAW/DeniseDAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
