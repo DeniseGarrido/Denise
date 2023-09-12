@@ -70,7 +70,7 @@
 
 ## GitHub Stats :chart_with_upwards_trend:
 
-![DeniseDAW's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeniseDAW&show_icons=true&theme=tokyonight)
+![DeniseGarrido's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeniseGarrido&show_icons=true&theme=tokyonight)
 
 <br>
 
